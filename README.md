@@ -6,3 +6,8 @@
 
 ## Pair Programming Guidelines
 Collaborative workflows and co-authored development standards.
+
+## Milestone Tracker
+- [x] Initial workspace
+- [x] Pair guidelines
+- [x] Pull Shark verification
