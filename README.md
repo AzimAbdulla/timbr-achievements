@@ -11,3 +11,6 @@ Collaborative workflows and co-authored development standards.
 - [x] Initial workspace
 - [x] Pair guidelines
 - [x] Pull Shark verification
+
+## Architecture Overview
+System architecture notes and modular integration points.
